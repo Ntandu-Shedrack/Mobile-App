@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "516361160111",
+    "project_id": "mobilesignupapp",
+    "storage_bucket": "mobilesignupapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516361160111:android:c2650209cded0a9fdf1b5a",
+        "android_client_info": {
+          "package_name": "com.example.google_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516361160111-egsghnj10k3552hq0b10qf1cnp2g3kst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiaCpTTT-_vBGwELqdTEiTm7kUqkSIyt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516361160111-egsghnj10k3552hq0b10qf1cnp2g3kst.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "516361160111-41nga7lp20dnndak76ssfhitkcqsetv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.google-auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
